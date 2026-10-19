@@ -1,6 +1,6 @@
 # First_project
 
-个人学习 Python 和 Git 的过程记录仓库 [cite: 1]。
+个人学习 Python 和 Git 的过程记录仓库。
 
 ## 项目简介 (About)
 本项目用于记录 Python 编程学习过程中的练习代码、脚本以及 Git 版本控制的使用实践。
